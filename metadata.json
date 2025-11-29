@@ -1,0 +1,5 @@
+{
+  "name": "Nexus Bridge",
+  "description": "A high-performance cross-chain bridge interface allowing users to transfer Native and ERC20 tokens seamlessly using LayerZero technology.",
+  "requestFramePermissions": []
+}
